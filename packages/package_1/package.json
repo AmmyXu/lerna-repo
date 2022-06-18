@@ -1,0 +1,23 @@
+{
+  "name": "package_1",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "xuyunjing <xuyunjing@corp.netease.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/package_1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "npm ls",
+    "xyj": "npm ls"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.3"
+  }
+}
